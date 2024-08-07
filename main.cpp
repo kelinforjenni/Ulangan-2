@@ -4,7 +4,7 @@
     
     int main()
     {
-        cout << "Kelompok Blay";
+        cout << "Kelompok Infor Jenni";
         cin.ignore();
         cout << endl;
         cout << "NIS" << endl;
